@@ -9,7 +9,7 @@
 <p align="center">
     <b><a href="README.md#daftar-tugas">Daftar tugas</a></b>
     |
-    <b><a href="README.md#screenshoot">Screenshot</a></b>
+    <b><a href="README.md#screenshot">Screenshot</a></b>
     |
     <b><a href="README.md#tentang-saya">Tentang saya</a></b>
 </p>
