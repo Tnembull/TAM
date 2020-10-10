@@ -19,19 +19,19 @@
 </p>
 
 ## Daftar tugas
-- [ActivityApp](\BarVolume)
-- [IntentApp](\MyIntentApp)
-- [FragmentApp](\MyFlexibleFragment)
+- [ActivityApp](https://github.com/Tnembull/TAM/tree/main/BarVolume)
+- [IntentApp](https://github.com/Tnembull/TAM/tree/main/MyIntentApp)
+- [FragmentApp](https://github.com/Tnembull/TAM/tree/main/MyFlexibleFragment)
 - Menyusul. :sunglasses:
 
 ## Screenshot
 
-![ActivityApp](\Screenshot\ActivityApp.JPG "ActivityApp")
-![IntentApp](\Screenshot\IntentApp.JPG "IntentApp")
-![FragmentApp](\Screenshot\FragmentApp.JPG "FragmentApp")
+![ActivityApp](https://raw.githubusercontent.com/Tnembull/TAM/main/Screenshot/ActivityApp.JPG)
+![IntentApp](https://raw.githubusercontent.com/Tnembull/TAM/main/Screenshot/IntentApp.JPG)
+![FragmentApp](https://raw.githubusercontent.com/Tnembull/TAM/main/Screenshot/FragmentApp.JPG)
 
 ## Tentang saya
-![FragmentApp](\Screenshot\Profile.png "FragmentApp")
+![Profile](https://raw.githubusercontent.com/Tnembull/TAM/main/Screenshot/Profile.png)
 ```java
 android:text="@string/muhammad_mur_ashiddiqi"
 android:text="@string/_1857051014"
