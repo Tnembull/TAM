@@ -9,6 +9,11 @@
 <p align="center">
     <b><a href="README.md#daftar-tugas">Daftar tugas</a></b>
     |
+<<<<<<< HEAD
+=======
+    <b><a href="README.md#screenshot">Screenshot</a></b>
+    |
+>>>>>>> bdd53cc2f1f2dc5387431769c8c102494594b48b
     <b><a href="README.md#tentang-saya">Tentang saya</a></b>
 </p>
 
@@ -20,11 +25,24 @@
 - [ActivityApp](https://github.com/Tnembull/TAM/tree/main/BarVolume)
 - [IntentApp](https://github.com/Tnembull/TAM/tree/main/MyIntentApp)
 - [FragmentApp](https://github.com/Tnembull/TAM/tree/main/MyFlexibleFragment)
+<<<<<<< HEAD
 - [ListViewApp](https://github.com/Tnembull/TAM/tree/main/MyListView)
 - [ViewAndViews](https://github.com/Tnembull/TAM/tree/main/MyViewAndView)
 - Menyusul. :sunglasses:
 
 ## Tentang saya
+=======
+- Menyusul. :sunglasses:
+
+## Screenshot
+
+![ActivityApp](https://raw.githubusercontent.com/Tnembull/TAM/main/Screenshot/ActivityApp.JPG)
+![IntentApp](https://raw.githubusercontent.com/Tnembull/TAM/main/Screenshot/IntentApp.JPG)
+![FragmentApp](https://raw.githubusercontent.com/Tnembull/TAM/main/Screenshot/FragmentApp.JPG)
+
+## Tentang saya
+![Profile](https://raw.githubusercontent.com/Tnembull/TAM/main/Screenshot/Profile.png)
+>>>>>>> bdd53cc2f1f2dc5387431769c8c102494594b48b
 ```java
 android:text="@string/muhammad_mur_ashiddiqi"
 android:text="@string/_1857051014"
