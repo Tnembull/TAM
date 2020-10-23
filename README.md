@@ -25,10 +25,6 @@
 - Menyusul. :sunglasses:
 
 ## Tentang saya
-=======
-- Menyusul. :sunglasses:
-
-## Tentang saya
 ```java
 android:text="@string/muhammad_mur_ashiddiqi"
 android:text="@string/_1857051014"
