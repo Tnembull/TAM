@@ -41,8 +41,7 @@ public class CategoryFragment extends Fragment implements View.OnClickListener {
              mDetailCategoryFragment.setDescription(description);
              FragmentManager mFragmentManager = getFragmentManager();
              FragmentTransaction mFragmentTransaction = mFragmentManager.beginTransaction();
-             mFragmentTransaction.replace(R.id.frame_container, mDetailCategoryFragment,
-                     DetailCategoryFragment.class.getSimpleName());
+             mFragmentTransaction.replace(R.id.frame_container, mDetailCategoryFragment, DetailCategoryFragment.class.getSimpleName());
              mFragmentTransaction.addToBackStack(null);
              mFragmentTransaction.commit();
         }

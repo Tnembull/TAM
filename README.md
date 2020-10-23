@@ -9,8 +9,6 @@
 <p align="center">
     <b><a href="README.md#daftar-tugas">Daftar tugas</a></b>
     |
-    <b><a href="README.md#screenshoot">Screenshot</a></b>
-    |
     <b><a href="README.md#tentang-saya">Tentang saya</a></b>
 </p>
 
@@ -19,25 +17,16 @@
 </p>
 
 ## Daftar tugas
-- [ActivityApp](\BarVolume)
-- [IntentApp](\MyIntentApp)
-- [FragmentApp](\MyFlexibleFragment)
+- [ActivityApp](https://github.com/Tnembull/TAM/tree/main/BarVolume)
+- [IntentApp](https://github.com/Tnembull/TAM/tree/main/MyIntentApp)
+- [FragmentApp](https://github.com/Tnembull/TAM/tree/main/MyFlexibleFragment)
+- [ListViewApp](https://github.com/Tnembull/TAM/tree/main/MyListView)
+- [ViewAndViews](https://github.com/Tnembull/TAM/tree/main/MyViewAndView)
 - Menyusul. :sunglasses:
 
-## Screenshot
-
-![ActivityApp](\Screenshot\ActivityApp.JPG "ActivityApp")
-![IntentApp](\Screenshot\IntentApp.JPG "IntentApp")
-![FragmentApp](\Screenshot\FragmentApp.JPG "FragmentApp")
-
 ## Tentang saya
-![FragmentApp](\Screenshot\Profile.png "FragmentApp")
 ```java
 android:text="@string/muhammad_mur_ashiddiqi"
 android:text="@string/_1857051014"
 android:text="@string/kelas_a"
 ```
-
-
-
- 

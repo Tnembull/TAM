@@ -12,11 +12,6 @@ import android.widget.Button;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link OptionDialogFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
 public class OptionDialogFragment extends DialogFragment implements View.OnClickListener{
     private RadioGroup rgOptions;
  private RadioButton rbSaf, rbMou, rbLvg, rbMoyes;
