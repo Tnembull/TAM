@@ -22,6 +22,8 @@
 - [FragmentApp](https://github.com/Tnembull/TAM/tree/main/MyFlexibleFragment)
 - [ListViewApp](https://github.com/Tnembull/TAM/tree/main/MyListView)
 - [ViewAndViews](https://github.com/Tnembull/TAM/tree/main/MyViewAndView)
+- [ViewAndViewsWithStyle](https://github.com/Tnembull/TAM/tree/main/MyViewAndViewsWithStyle)
+- [ActionBar](https://github.com/Tnembull/TAM/tree/main/MyActionBar)
 - [Screenshot](https://github.com/Tnembull/TAM/tree/main/ScreenshotApp)
 - Menyusul. :sunglasses:
 
