@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmsListenerApp</string>
+    <string name="ini_aplikasi_sms_receiver">Ini Adalah Aplikasi SMS Receiver</string>
+    <string name="coming_from">Comming From</string>
+    <string name="woy_main_kesini_jadi_ngga_sekarang_yuk">Jadi Belajar AndroidStudio Kan? </string>
+    <string name="tutup">Tutup</string>
+</resources>
